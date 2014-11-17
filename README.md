@@ -1,7 +1,7 @@
 imperavi-redactor-imagesize-plugin
 ==================================
 
-Imperavi redactor plugin for editing the image size.
+Imperavi redactor plugin for input image size by keyboard.
 
 Usage
 -----
