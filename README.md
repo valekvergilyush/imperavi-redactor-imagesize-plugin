@@ -3,6 +3,10 @@ imperavi-redactor-imagesize-plugin
 
 Imperavi redactor plugin for input image size by keyboard.
 
+Requirements
+------------
+Imperavi Redactor >= 10.0
+
 Usage
 -----
 
